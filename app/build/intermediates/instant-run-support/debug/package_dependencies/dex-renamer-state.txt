@@ -1,0 +1,4 @@
+#Fri Mar 24 00:11:26 CST 2017
+base.0=C\:\\Users\\Rex\\Downloads\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5ff9b1d3e910a8a10b5c90ceedb786ae50666180
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rex\\Downloads\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5ff9b1d3e910a8a10b5c90ceedb786ae50666180\\classes.dex
